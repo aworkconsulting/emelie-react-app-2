@@ -1,6 +1,5 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import App from "./App";
 import WeatherSearch from "./Weather";
 import Footer from "./footer";
 import "./weather.css";
