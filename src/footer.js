@@ -7,7 +7,7 @@ export default function Footer() {
       <p>
         <small>
           <a
-            href="https://github.com/Mor-coder/weather-app-test"
+            href="https://github.com/aworkconsulting/emelie-react-app-2"
             target="_blank"
             rel="noreferrer"
           >
