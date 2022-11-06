@@ -1,6 +1,7 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import WeatherSearch from "./Weather";
+import Footer from "./footer";
 
 import "./weather.css";
 
@@ -12,6 +13,7 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+      <footer />
     </div>
   </StrictMode>
 );
