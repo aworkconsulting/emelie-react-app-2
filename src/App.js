@@ -13,7 +13,7 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
-      <footer />
+      <Footer />
     </div>
   </StrictMode>
 );
